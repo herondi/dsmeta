@@ -61,7 +61,7 @@ public class Sale {
 	}
 
 	public void setAmoint(Double amoint) {
-		this.amoint = amoint;
+		this.amount = amoint;
 	}
 
 	public LocalDate getDate() {
